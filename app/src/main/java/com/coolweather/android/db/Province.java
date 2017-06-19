@@ -7,7 +7,7 @@ import org.litepal.crud.DataSupport;
  * Created by asus on 2017/6/19.
  */
 
-public class Procince extends DataSupport {
+public class Province extends DataSupport {
     private int id;
     private String provinceName;
     private int provinceCode;
